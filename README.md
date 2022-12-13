@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi!
-I mainly program in Python.
+# Hi! 👋
+I'm a programmer whose currently learning Python.
