@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 -->
 
 # Hi! 👋
-I'm a programmer whose currently learning Python.
